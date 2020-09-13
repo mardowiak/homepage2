@@ -1,44 +1,38 @@
-body
-{
-    background-color:rgb(100, 2, 100);
-    color:#123456;
+body {
+  background-color: rgb(100, 2, 100);
+  color: #123456;
 }
-header{
-    text-align: center;
-    background-color:rgb(182, 121, 9);
+header {
+  text-align: center;
+  background-color: rgb(182, 121, 9);
 }
-section{
-    background-color: rgb(255, 192, 192);
+section {
+  background-color: rgb(255, 192, 192);
 }
-h2{
-color:#1460AA;
-text-align:center;
-background-color: yellow;
+h2 {
+  color: #1460aa;
+  text-align: center;
+  background-color: yellow;
 }
-h3
-{
-    color:#1460AA;
-    text-align:left;
-    background-color: rgb(52, 182, 19);
+h3 {
+  color: #1460aa;
+  text-align: left;
+  background-color: rgb(52, 182, 19);
 }
-h4
-{
-    color:#1460AA;
-    text-align:left;
-    }
-p
-    {
-        text-align:left;
-        background-color: rgb(161, 105, 1)
-    }
-    footer
-    {
-        background-color: black;
-        font-size: 40px;
-        color: rgb(198, 240, 14);
-        text-align:center;
-    }
-nav
-{
-background-color: pink;
+h4 {
+  color: #1460aa;
+  text-align: left;
+}
+p {
+  text-align: left;
+  background-color: rgb(161, 105, 1);
+}
+footer {
+  background-color: black;
+  font-size: 40px;
+  color: rgb(198, 240, 14);
+  text-align: center;
+}
+nav {
+  background-color: pink;
 }
