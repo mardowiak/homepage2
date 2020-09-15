@@ -4,15 +4,26 @@
 }
 .header {
   text-align: center;
-  background-color: rgb(182, 121, 9);
+  background-color: #DBAD6A;
   color: yellow;
 }
 
-.first-section {
-  background-color: rgb(46, 28, 209);
+.section-article__header {
+  color: rgb(46, 28, 209);
+  background-color: #ffda22;
+  display:block;
+  padding: 1px;
 }
+.section-article__header--big-header {
+  color: rgb(46, 28, 209);
+  background-color: #ffffff;
+  display:inline;
+  padding: 1px;
+}
+/*
 .second-section {
-  background-color: rgb(13, 107, 13);
+  background-co
+  lor: rgb(13, 107, 13);
 }
 .article {
   background-color: black;
@@ -42,7 +53,7 @@
 .p-second-section {
   text-align: left;
   background-color: rgb(68, 65, 65);
-}
+} */
 .footer {
   background-color: black;
   font-size: 40px;
@@ -77,6 +88,7 @@
   background-color: #ffda22;
   color: rgb(253, 0, 0);
 }
+/* 
 .h3-first-section {
   color: black;
   background-color: red;
@@ -84,4 +96,4 @@
 .h3-second-section {
   color: black;
   background-color: red;
-}
+} */
