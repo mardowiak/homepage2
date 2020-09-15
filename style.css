@@ -11,13 +11,12 @@
 .section-article__header {
   color: rgb(46, 28, 209);
   background-color: #ffda22;
-  display:block;
+  display:inline;
   padding: 1px;
 }
 .section-article__header--big-header {
   color: rgb(46, 28, 209);
   background-color: #ffffff;
-  display:inline;
   padding: 1px;
 }
 /*
