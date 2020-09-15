@@ -26,8 +26,7 @@
 .section{
   background-color: #273043;
   max-width:1000px;
-  margin-left:auto;
-  margin-right:auto;
+  margin:auto;
 
 }
 .section-article{
@@ -69,9 +68,13 @@
 } */
 .footer {
   background-color: black;
+  max-width:1000px;
+  border:6px solid #ffffff;
   font-size: 40px;
   color: rgb(198, 240, 14);
   text-align: center;
+  margin:auto;
+  border-radius: 5px;
 }
 .navigation-bar {
   background-color: #9883e5;
